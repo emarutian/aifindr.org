@@ -7,7 +7,7 @@ tags:
   - marketing
   - local-business
   - website-analysis
-pricing: freemium
+pricing: free
 submitter_site: https://www.flashcrafter.ai
 submitter_github: emarutian
 ---
